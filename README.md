@@ -7,7 +7,7 @@
  
 - 🤓 I’m an Open-Source enthusiast 
 - 🎓 Pre-final year student with a major in Information Technology
-- 💬 Let's talk about Software Architecture, Kubernetes, Web Dev, Machine Learning & DevOps.
+- 💬 Let's talk about Software Architecture, Kubernetes, Web Dev, Data Science, Machine Learning & DevOps.
 - 🏆 I'm an avid improver. Continuously learning how to make the world better
 
 <br />
