@@ -25,7 +25,7 @@
 
 
 ## 🛠️ **Things I code with:**
-![Typescript](https://img.shields.io/badge/typescript%20-%2314354C.svg?&style=for-the-badge&logo=typescript&logoColor=white)
+![Typescript](https://img.shields.io/badge/typescript%20-%230db7ed.svg?&style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white)
 ![Javascript](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -43,7 +43,7 @@
 ![Colab](https://img.shields.io/badge/Colab%20-%2320232a.svg?&style=for-the-badge&logo=google&logoColor=white)
 ![Android](https://img.shields.io/badge/Android%20-%2320232a.svg?&style=for-the-badge&logo=android&logoColor=white)
 ![React](https://img.shields.io/badge/React%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=white)
-![Node](https://img.shields.io/badge/node%20-%2320232a.svg?&style=for-the-badge&logo=node&logoColor=white)
+![Node](https://img.shields.io/badge/node%20-%2314354C.svg?&style=for-the-badge&logo=node&logoColor=white)
 ![HTML](https://img.shields.io/badge/html%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/css%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
 ![Sass](https://img.shields.io/badge/-sass%20-%23121011?style=for-the-badge&logo=sass)
