@@ -56,6 +56,8 @@
 ![Docker](https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/-linux-772953?style=for-the-badge&logo=linux)
 ![Vim](https://img.shields.io/badge/-vim-772953?style=for-the-badge&logo=vim)
+![Sass](https://img.shields.io/badge/-sass-772953?style=for-the-badge&logo=sass)
+![GrapQL](https://img.shields.io/badge/-graphql-772953?style=for-the-badge&logo=graphql)
 
 
 ## 📊 **This Week I Spent My Time On:**
