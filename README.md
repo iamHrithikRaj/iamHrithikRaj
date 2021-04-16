@@ -72,7 +72,7 @@ No Activity tracked this Week
  -->
 <br />
  
-<img align="center"> src="https://github-profile-trophy.vercel.app/?username=iamHrithikRaj&theme=dark" alt="trophy">
+<img align="center" src="https://github-profile-trophy.vercel.app/?username=iamHrithikRaj&theme=dark" alt="trophy" />
 
  
  <!--Footer-->
