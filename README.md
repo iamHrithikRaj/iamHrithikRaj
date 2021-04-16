@@ -12,6 +12,6 @@
 
 📈 My GitHub Stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=abhisheknaiidu&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=iamHrithikRaj&show_icons=true&theme=gotham" alt="iamHrithikRaj" />
 <!-- [![Top Langs](https://github-readme-stats-axpwmfcg3.vercel.app/api/top-langs/?username=iamHrithikRaj&layout=compact)](https://github.com/iamHrithikRaj/github-readme-stats)
  -->
