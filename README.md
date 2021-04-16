@@ -9,6 +9,17 @@
 - 💬 Let's talk about Software Architecture, Kubernetes, Web Dev, Machine Learning & DevOps.
 - 🏆 I'm an avid improver. Continuously learning how to make the world better
 
+📊 **This Week I Spent My Time On:**
+<!--START_SECTION:waka-->
+```text
+JavaScript   15 hrs 4 mins   ████████████████░░░░░░░░░   63.55 % 
+JSX          5 hrs 58 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.19 % 
+SCSS         2 hrs 20 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.90 % 
+Other        11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.80 % 
+JSON         7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
+```
+<!--END_SECTION:waka-->
+
 
 📈 My GitHub Stats
 
