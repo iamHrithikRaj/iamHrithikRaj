@@ -1,6 +1,7 @@
 # Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Hrithik! 🧑‍💻
 
-## 📫 **Get in touch:** &nbsp;
+## 📫 **Get in touch:** 
+
 <p align="center">
 [![Linkedin](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hrithik-raj-4a881a169/)
 [![Gmail](https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:hraj2661999@gmail.com)
