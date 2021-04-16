@@ -19,7 +19,7 @@
 - 🎓 Pre-final year student with a major in Information Technology
 - 💬 Let's talk about Software Architecture, Kubernetes, Web Dev, Data Science, Machine Learning & DevOps.
 - 🏆 I'm an avid improver. Continuously learning how to make the world better
-
+- 🤩 I'm open to Data Science, Android Development & Backend Development roles.
 
 <br /><br /><br />
 
