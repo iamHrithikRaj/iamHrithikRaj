@@ -2,6 +2,7 @@
 
 📫 **Get in touch:** 
 [![Linkedin Badge](https://img.shields.io/badge/hrithikraj-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hrithik-raj-4a881a169/)](https://www.linkedin.com/in/hrithik-raj-4a881a169/) [![Github Badge](https://img.shields.io/badge/-hrithik-raj?style=flat&logo=github&logoColor=white&link=https://github.com/iamHrithikRaj/)](https://www.github.com/iamHrithikRaj/) ![Profile views](https://gpvc.arturio.dev/iamHrithikRaj)
+<div>
 <p align="right">
  <img alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="50%" height="320" />
   </p>
@@ -11,6 +12,7 @@
 - 💬 Let's talk about Software Architecture, Kubernetes, Web Dev, Machine Learning & DevOps.
 - 🏆 I'm an avid improver. Continuously learning how to make the world better
 </p>
+</div>
 
 **Things I code with:**  
 
