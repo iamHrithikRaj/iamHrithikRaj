@@ -2,18 +2,16 @@
 
 📫 **Get in touch:** 
 [![Linkedin Badge](https://img.shields.io/badge/hrithikraj-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hrithik-raj-4a881a169/)](https://www.linkedin.com/in/hrithik-raj-4a881a169/) [![Github Badge](https://img.shields.io/badge/-hrithik-raj?style=flat&logo=github&logoColor=white&link=https://github.com/iamHrithikRaj/)](https://www.github.com/iamHrithikRaj/) ![Profile views](https://gpvc.arturio.dev/iamHrithikRaj)
-<div>
-<p align="right">
- <img alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="50%" height="320" />
-  </p>
-<p align="left">
+
+ <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="50%" height="320" />
+ 
 - 🤓 I’m an Open-Source enthusiast 
 - 🎓 Pre-final year student with a major in Information Technology
 - 💬 Let's talk about Software Architecture, Kubernetes, Web Dev, Machine Learning & DevOps.
 - 🏆 I'm an avid improver. Continuously learning how to make the world better
-</p>
-</div>
 
+<br />
+<br /><br /><br /><br />
 **Things I code with:**  
 
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
