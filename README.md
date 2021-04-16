@@ -4,23 +4,6 @@
 [![Linkedin Badge](https://img.shields.io/badge/hrithikraj-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hrithik-raj-4a881a169/)](https://www.linkedin.com/in/hrithik-raj-4a881a169/) [![Github Badge](https://img.shields.io/badge/-hrithik-raj?style=flat&logo=github&logoColor=white&link=https://github.com/iamHrithikRaj/)](https://www.github.com/iamHrithikRaj/) ![Profile views](https://gpvc.arturio.dev/iamHrithikRaj)
 
 
-<!--
-
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<!-- - 📫 Let's get social: <a href="https://www.linkedin.com/in/andrespedes12/"> <img src="https://img.shields.io/badge/-LinkedIn-%233781da" alt="LinkedIn"/></a>   -->
-
 - 🤓 I’m an Open-Source enthusiast 
 - 🎓 Pre-final year student in Information Technology
 - 💬 Let's talk about Software Architecture, Kubernetes, Web Dev, Machine Learning & DevOps.
@@ -30,5 +13,3 @@ Here are some ideas to get you started:
 [![All Stats](https://github-readme-stats-axpwmfcg3.vercel.app/api?username=iamHrithikRaj&show_icons=true&include_all_commits=true&count_private=true&hide=contribs)](https://github.com/iamHrithikRaj/github-readme-stats)
 [![Top Langs](https://github-readme-stats-axpwmfcg3.vercel.app/api/top-langs/?username=iamHrithikRaj&layout=compact)](https://github.com/iamHrithikRaj/github-readme-stats)
 
-
-<!--![Pedes's github stats](https://github-readme-stats.vercel.app/api?username=pedes) -->
