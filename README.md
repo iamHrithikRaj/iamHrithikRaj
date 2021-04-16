@@ -10,7 +10,6 @@
 - 💬 Let's talk about Software Architecture, Kubernetes, Web Dev, Data Science, Machine Learning & DevOps.
 - 🏆 I'm an avid improver. Continuously learning how to make the world better
 
-<br />
 
 ## 🛠️ **Things I code with:**
 
@@ -35,7 +34,7 @@
 ![CSS](https://img.shields.io/badge/css%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
 ![BootStrap](https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Django](https://img.shields.io/badge/django%20-%23092E20.svg?&style=for-the-badge&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI%20-%2307405e.svg?&style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask%20-%2307405e.svg?&style=for-the-badge&logo=flask&logoColor=white)
 
 ![VSCode](https://img.shields.io/badge/-vscode-00a8e8?style=for-the-badge&logo=visual-studio-code)
 ![Git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)
