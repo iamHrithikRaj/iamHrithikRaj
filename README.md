@@ -1,6 +1,6 @@
-## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Hrithik! 🧑‍💻
+# Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Hrithik! 🧑‍💻
 
-📫 **Get in touch:** &nbsp;
+## 📫 **Get in touch:** &nbsp;
 [![Linkedin Badge](https://img.shields.io/badge/hrithikraj-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hrithik-raj-4a881a169/)](https://www.linkedin.com/in/hrithik-raj-4a881a169/) [![Github Badge](https://img.shields.io/badge/-hrithik-raj?style=flat&logo=github&logoColor=white&link=https://github.com/iamHrithikRaj/)](https://www.github.com/iamHrithikRaj/) ![Profile views](https://gpvc.arturio.dev/iamHrithikRaj)
 
  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
@@ -12,7 +12,7 @@
 
 <br />
 
-**Things I code with:**  
+## 🛠️ **Things I code with:**
 
 ![Python](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white)
@@ -48,7 +48,7 @@
 <br /><br /><br />
 
 
-📊 **This Week I Spent My Time On:**
+## 📊 **This Week I Spent My Time On:**
 
 <!--START_SECTION:waka-->
 ```text
@@ -57,7 +57,7 @@ No Activity tracked this Week
 <!--END_SECTION:waka-->
 
 
-📈 **My GitHub Stats:**
+## 📈 **My GitHub Stats:**
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=iamHrithikRaj&show_icons=true&theme=gotham" alt="iamHrithikRaj" />
 <!-- [![Top Langs](https://github-readme-stats-axpwmfcg3.vercel.app/api/top-langs/?username=iamHrithikRaj&layout=compact)](https://github.com/iamHrithikRaj/github-readme-stats)
