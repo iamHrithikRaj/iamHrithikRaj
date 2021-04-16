@@ -7,8 +7,7 @@
 [![Linkedin](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hrithik-raj-4a881a169/)
 [![Gmail](https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:hraj2661999@gmail.com)
 [![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/hraj2661999)
-![Youtube](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white)
-![Profile views](https://gpvc.arturio.dev/iamHrithikRaj)
+[![Youtube](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UClUEM1jVHhzFV0xnPh7B2SQ)
 
 </p>
 
