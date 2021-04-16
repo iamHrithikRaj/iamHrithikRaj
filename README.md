@@ -17,7 +17,7 @@
 ![C++](https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white)
 ![Javascript](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Java](https://img.shields.io/badge/java%20-%23323330.svg?&style=for-the-badge&logo=java&logoColor=%23F7DF1E)
-![Bash](https://img.shields.io/badge/shell%20-%23323330.svg?&style=for-the-badge&logo=shell&logoColor=%23F7DF1E)
+![Bash](https://img.shields.io/badge/bash%20-%23323330.svg?&style=for-the-badge&logo=bash&logoColor=%23F7DF1E)
 
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white)
 ![Sqlite](https://img.shields.io/badge/sqlite-%2307405e.svg?&style=for-the-badge&logo=sqlite&logoColor=white)
@@ -33,7 +33,7 @@
 ![Colab](https://img.shields.io/badge/Colab%20-%2320232a.svg?&style=for-the-badge&logo=google&logoColor=white)
 ![Android](https://img.shields.io/badge/Android%20-%2320232a.svg?&style=for-the-badge&logo=android&logoColor=white)
 ![React](https://img.shields.io/badge/React%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=white)
-![Node](https://img.shields.io/badge/Node%20-%2320232a.svg?&style=for-the-badge&logo=node&logoColor=white)
+![Node](https://img.shields.io/badge/node%20-%2320232a.svg?&style=for-the-badge&logo=node&logoColor=white)
 
 ![HTML](https://img.shields.io/badge/html%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/css%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
