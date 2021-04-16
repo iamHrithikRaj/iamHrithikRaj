@@ -46,7 +46,8 @@
 ![Node](https://img.shields.io/badge/node%20-%2320232a.svg?&style=for-the-badge&logo=node&logoColor=white)
 ![HTML](https://img.shields.io/badge/html%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/css%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
-![SASS](https://img.shields.io/badge/Sass%20-%231572B6.svg?&style=for-the-badge&logo=sass3&logoColor=white)
+![Sass](https://img.shields.io/badge/-sass-772953?style=for-the-badge&logo=sass)
+![GrapQL](https://img.shields.io/badge/-graphql-772953?style=for-the-badge&logo=graphql)
 ![BootStrap](https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Django](https://img.shields.io/badge/django%20-%23092E20.svg?&style=for-the-badge&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask%20-%2307405e.svg?&style=for-the-badge&logo=flask&logoColor=white)
@@ -56,8 +57,7 @@
 ![Docker](https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/-linux-772953?style=for-the-badge&logo=linux)
 ![Vim](https://img.shields.io/badge/-vim-772953?style=for-the-badge&logo=vim)
-![Sass](https://img.shields.io/badge/-sass-772953?style=for-the-badge&logo=sass)
-![GrapQL](https://img.shields.io/badge/-graphql-772953?style=for-the-badge&logo=graphql)
+
 
 
 ## 📊 **This Week I Spent My Time On:**
