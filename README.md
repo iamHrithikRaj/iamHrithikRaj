@@ -2,9 +2,9 @@
 
 📫 **Get in touch:** 
 [![Linkedin Badge](https://img.shields.io/badge/hrithikraj-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hrithik-raj-4a881a169/)](https://www.linkedin.com/in/hrithik-raj-4a881a169/) [![Github Badge](https://img.shields.io/badge/-hrithik-raj?style=flat&logo=github&logoColor=white&link=https://github.com/iamHrithikRaj/)](https://www.github.com/iamHrithikRaj/) ![Profile views](https://gpvc.arturio.dev/iamHrithikRaj)
-
- <img style={align: "center"} alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
-  
+<p align="center">
+ <img alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="50%" height="320" />
+  </p>
 
 - 🤓 I’m an Open-Source enthusiast 
 - 🎓 Pre-final year student with a major in Information Technology
