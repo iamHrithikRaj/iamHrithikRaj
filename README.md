@@ -14,7 +14,7 @@
 
  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
  
- ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> **About Me:**
+ ## 😎 **About Me:**
 - 🤓 I’m an Open-Source enthusiast 
 - 🎓 Pre-final year student with a major in Information Technology
 - 💬 Let's talk about Software Architecture, Kubernetes, Web Dev, Data Science, Machine Learning & DevOps.
