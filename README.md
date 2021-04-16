@@ -17,7 +17,7 @@
  ## 😎 **About Me:**
 - 🤓 I’m an Open-Source enthusiast 
 - 🎓 Pre-final year student with a major in Information Technology
-- 💬 Let's talk about Software Architecture, Kubernetes, Web Dev, Data Science, Machine Learning & DevOps.
+- 💬 Let's talk about Software Architecture, Kubernetes, Web Dev, Data Science, Machine Learning, Data Structures, Algorithms & DevOps.
 - 🏆 I'm an avid improver. Continuously learning how to make the world better
 - 🤩 I'm open to Data Science, Android Development & Backend Development roles.
 
@@ -56,7 +56,7 @@
 ![Github](https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/-linux-772953?style=for-the-badge&logo=linux)
-![Vim](https://img.shields.io/badge/-vim-772953?style=for-the-badge&logo=vim)
+![Vim](https://img.shields.io/badge/-vim%20-%23092E20?style=for-the-badge&logo=vim)
 
 
 
