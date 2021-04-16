@@ -71,7 +71,7 @@ No Activity tracked this Week
 <!-- [![Top Langs](https://github-readme-stats-axpwmfcg3.vercel.app/api/top-langs/?username=iamHrithikRaj&layout=compact)](https://github.com/iamHrithikRaj/github-readme-stats)
  -->
 
-<img align="center" src="https://github-profile-trophy.vercel.app/?username=iamHrithikRaj&theme=dark" alt="trophy">
+<img src="https://github-profile-trophy.vercel.app/?username=iamHrithikRaj&theme=dark" alt="trophy">
 
  
  <!--Footer-->
