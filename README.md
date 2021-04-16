@@ -1,7 +1,7 @@
 ## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Hrithik! 🧑‍💻
 
 **Get in touch:**
-[![Linkedin Badge](https://img.shields.io/badge/-andrespedes12-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andrespedes12/)](https://www.linkedin.com/in/andrespedes12/) [![Github Badge](https://img.shields.io/badge/-pedes-grey?style=flat&logo=github&logoColor=white&link=https://github.com/pedes/)](https://www.github.com/pedes/) ![Profile views](https://gpvc.arturio.dev/pedes)
+[![Linkedin Badge](https://img.shields.io/badge/-andrespedes12-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andrespedes12/)](https://www.linkedin.com/in/andrespedes12/) [![Github Badge](https://img.shields.io/badge/-iamHrithikRaj?style=flat&logo=github&logoColor=white&link=https://github.com/iamHrithikRaj/)](https://www.github.com/iamHrithikRaj/) ![Profile views](https://gpvc.arturio.dev/pedes)
 
 
 <!--
