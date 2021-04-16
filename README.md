@@ -70,6 +70,10 @@ No Activity tracked this Week
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=iamHrithikRaj&show_icons=true&theme=gotham" alt="iamHrithikRaj" />
 <!-- [![Top Langs](https://github-readme-stats-axpwmfcg3.vercel.app/api/top-langs/?username=iamHrithikRaj&layout=compact)](https://github.com/iamHrithikRaj/github-readme-stats)
  -->
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=codeperfectplus&show_icons=true&include_all_commits=true&theme=blue-white&count_private=true" alt="github stats">
+
+<img align="center" src="https://github-profile-trophy.vercel.app/?username=codeperfectplus&theme=white" alt="trophy">
+
  
  <!--Footer-->
 <hr>
