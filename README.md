@@ -57,7 +57,7 @@
 ![Docker](https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/-linux-772953?style=for-the-badge&logo=linux)
 ![Vim](https://img.shields.io/badge/-vim%20-%23092E20?style=for-the-badge&logo=vim)
-
+![spaCy](https://img.shields.io/badge/spaCy%20-%2320232a.svg?&style=for-the-badge&logo=spaCy&logoColor=white)
 
 
 ## 📊 **This Week I Spent My Time On:**
