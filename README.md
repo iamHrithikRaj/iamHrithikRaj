@@ -14,7 +14,7 @@
   <a href="https://www.linkedin.com/in/iamhrithikraj/">
     <img alt="followers" title="Connect with me on Linked[In]" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:hraj2661999@gmail.com">
-    <img alt="followers" title="Connect with me on Linked[In]" src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
+    <img alt="followers" title="Mail me" src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://github.com/iamHrithikRaj">
     <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/iamHrithikRaj?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow"/></a>
   <a href="https://github.com/iamHrithikRaj">
