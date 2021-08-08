@@ -40,11 +40,11 @@ const hrithik = {
             python: ["Numpy", "Pandas", "Tensorflow", "Sci-kit Learn", "Matplotlib", "Seaborn"]
         },
         devOps: ["AWS", "Docker🐳", "Route53", "Nginx", "Prometheus", "Ansible", "Jenkins"],
-        databases: ["MongoDB", "PostgresSQL", "Redis"],
-        misc: ["Firebase", "Socket.IO", "Selenium", "OpenCV", "spaCy", "RASA"]
+        databases: ["MongoDB", "PostgresSQL", "Redis", "Firebase"],
+        misc: ["Selenium", "OpenCV", "spaCy", "RASA", "RabbitMQ"]
     },
-    architecture: ["Microservice Architecture", "Progressive web applications",
-                  "Single page applications", "Serverless Architecture"],
+    architecture: ["Microservice Architecture", "GraphQL",
+                  "REST", "Serverless Architecture"],
     currentFocus: "Backend Development and DevOps",
     myPhilosophy: "First make it RUN, then make it FAST"
 };
