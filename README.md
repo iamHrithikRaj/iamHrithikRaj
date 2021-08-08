@@ -31,7 +31,7 @@
 <br />
 
 
-## 🛠️ My favorite tools
+## 🛠️ Things I code with
 
 ### 👨‍💻 Programming languages
 
