@@ -22,11 +22,34 @@
 </p>
  
 ## 😎 About Me:
-- 🤓 I’m an Open-Source enthusiast 
-- 🎓 Pre-final year student with a major in Information Technology
-- 💬 Let's talk about Software Architecture, Kubernetes, Web Dev, Data Science, Machine Learning, Data Structures, Algorithms & DevOps.
-- 🏆 I'm an avid improver. Continuously learning how to make the world better
-- 🤩 I'm open to Data Science, Android Development & Backend Development roles.
+
+<p style="text-align: center;">
+  
+```javascript
+const hrithik = {
+    pronouns: "He" | "Him",
+    code: ["Typescript/Javascript", "Python", "Java", "C/C++", "Bash", "Golang"],
+    askMeAbout: ["backend", "devops", "data science"],
+    technologies: {
+        backEnd: {
+            js: ["Node", "Fastify", "Express", "SuiteScript"],
+            python: ["Django", "Flask"],
+            go: ["Gorilla"]
+        },
+        dataScience: {
+            native: ["Numpy", "Pandas", "Tensorflow", "Sci-kit Learn"]
+        },
+        devOps: ["AWS", "Docker🐳", "Route53", "Nginx", "Prometheus", "Ansible", "Jenkins"],
+        databases: ["mongo", "PostgresSQL", "Redis"],
+        misc: ["Firebase", "Socket.IO", "selenium", "open-cv", "spaCy", "RASA"]
+    },
+    architecture: ["Microservice Architecture", "Progressive web applications",
+                  "Single page applications", "Serverless Architecture"],
+    currentFocus: "Backend Development and DevOps",
+    myPhilosophy: "First make it RUN, then make it FAST"
+};
+```  
+</p>
 
 <br />
 
