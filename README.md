@@ -132,11 +132,11 @@ const hrithik = {
 
 <!--START_SECTION:waka-->
 ```text
-TypeScript   5 hrs 13 mins   █████████████▓░░░░░░░░░░░   54.19 % 
-Python       1 hr 23 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.49 % 
-JavaScript   1 hr 7 mins     ███░░░░░░░░░░░░░░░░░░░░░░   11.70 % 
-JSON         23 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 % 
-Svelte       22 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 % 
+TypeScript   5 hrs 13 mins   ██████████████░░░░░░░░░░░   56.39 % 
+Python       1 hr 23 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   15.07 % 
+JavaScript   1 hr 12 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.00 % 
+JSON         22 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 % 
+Svelte       22 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 % 
 ```
 <!--END_SECTION:waka-->
 
