@@ -132,10 +132,10 @@ const hrithik = {
 
 <!--START_SECTION:waka-->
 ```text
-Markdown     31 mins         █████████████░░░░░░░░░░░░   52.54 % 
-JSON         14 mins         █████▓░░░░░░░░░░░░░░░░░░░   23.00 % 
-JavaScript   12 mins         █████░░░░░░░░░░░░░░░░░░░░   20.41 % 
-Git Config   2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.78 % 
+Markdown     31 mins         █████████████▒░░░░░░░░░░░   52.68 % 
+JSON         14 mins         █████▓░░░░░░░░░░░░░░░░░░░   23.06 % 
+JavaScript   12 mins         █████░░░░░░░░░░░░░░░░░░░░   20.46 % 
+Git Config   2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 % 
 ```
 <!--END_SECTION:waka-->
 
