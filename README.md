@@ -142,7 +142,9 @@ CSS          4 mins          ▒░░░░░░░░░░░░░░░░
 
 
 ## 📈 **My GitHub Stats:**
-<h1 align="center"> <img src="https://github-readme-stats.vercel.app/api?username=iamHrithikRaj&theme=onedark&count_private=true&show_icons=true" alt="iamHrithikRaj"> </h1>
+<h1 align="center">  <img src="https://github-readme-stats.vercel.app/api?username=iamHrithikRaj&theme=onedark&count_private=true&show_icons=true" alt="iamHrithikRaj"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamHrithikRaj&theme=onedark"></img> </h1>
+
+
 
 <br>
 
