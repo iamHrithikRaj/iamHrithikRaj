@@ -132,7 +132,10 @@ const hrithik = {
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+CSS          2 hrs 57 mins   █████████████████▓░░░░░░░   70.10 % 
+HTML         1 hr 4 mins     ██████▒░░░░░░░░░░░░░░░░░░   25.39 % 
+Python       8 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.34 % 
+JSON         2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
 ```
 <!--END_SECTION:waka-->
 
