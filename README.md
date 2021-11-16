@@ -32,7 +32,7 @@ const hrithik = {
     askMeAbout: ["backend", "devops", "data science"],
     technologies: {
         backEnd: {
-            java: ["Spring Boot"]
+            java: ["Spring Boot"],
             js: ["Node", "Fastify", "Express"],
             go: ["Gorilla"]
         },
