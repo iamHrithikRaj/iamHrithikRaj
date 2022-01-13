@@ -132,8 +132,8 @@ const hrithik = {
 
 <!--START_SECTION:waka-->
 ```text
-HTML   18 mins         ███████████████████▒░░░░░   77.66 % 
-CSS    5 mins          █████▒░░░░░░░░░░░░░░░░░░░   21.22 % 
+HTML   16 mins         ███████████████████░░░░░░   75.83 % 
+CSS    5 mins          █████▓░░░░░░░░░░░░░░░░░░░   22.97 % 
 ```
 <!--END_SECTION:waka-->
 
