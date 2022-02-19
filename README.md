@@ -132,9 +132,12 @@ const hrithik = {
 
 <!--START_SECTION:waka-->
 ```text
-Total: 9 mins
+Total: 5 hrs 43 mins
 
-C++          9 mins          ███████████████████████▓░   94.85 % 
+C          4 hrs 48 mins   █████████████████████░░░░   83.82 % 
+Text       37 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.86 % 
+C++        9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
+Markdown   8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
 ```
 <!--END_SECTION:waka-->
 
