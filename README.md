@@ -98,8 +98,10 @@ const hrithik = {
     <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white&style=for-the-badge"></a>
     <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098.svg?logo=heroku&logoColor=white&style=for-the-badge"></a>
     <a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white&style=for-the-badge"></a>
-    <a href="#"><img alt="MySQL" src ="https://img.shields.io/badge/MySQL-F00000.svg?logo=mysql&logoColor=white&style=for-the-badge"></a>
+    <a href="#"><img alt="MySQL" src ="https://img.shields.io/badge/MySQL-F7DF1E.svg?logo=mysql&logoColor=white&style=for-the-badge"></a>
     <a href="#"><img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white&style=for-the-badge"></a>
+    <a href="#"><img alt="Redis" src ="https://img.shields.io/badge/Redis-F00000.svg?logo=redis&logoColor=white&style=for-the-badge"></a>
+
 </p>
 
 ### 💻 Software and tools
