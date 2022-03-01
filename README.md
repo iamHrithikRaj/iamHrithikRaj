@@ -18,9 +18,10 @@
   <a href="https://github.com/iamHrithikRaj">
     <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/iamHrithikRaj?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow"/></a>
   <a href="https://github.com/iamHrithikRaj">
-    <img alt="views" title="GitHub profile views" src="https://radiant-reef-56188.herokuapp.com"/></a>
+    <img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=iamHrithikRaj&style=for-the-badge"/></a>
 </p>
  
+ ![]()
 ## 😎 About Me:
 
 <p style="text-align: center;">
