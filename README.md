@@ -124,7 +124,7 @@ const hrithik = {
 <!--START_SECTION:waka-->
 
 ```text
-HTML   1 min           █████████████████████████   100.00 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
