@@ -7,10 +7,10 @@
 <!-- YouTube Stats - https://github.com/DenverCoder1/github-readme-youtube-stats -->
 <!-- View counter - https://github.com/DenverCoder1/Simple-View-Counter -->
 <p align="center">
-  <a href="https://www.youtube.com/channel/UClUEM1jVHhzFV0xnPh7B2SQ?sub_confirmation=1">
+<!--   <a href="https://www.youtube.com/channel/UClUEM1jVHhzFV0xnPh7B2SQ?sub_confirmation=1">
     <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://img.shields.io/youtube/channel/subscribers/UClUEM1jVHhzFV0xnPh7B2SQ?color=%23E05D44&label=SUBSCRIBE&logo=youtube&style=for-the-badge&labelColor=CE4630"/></a> 
   <a href="https://www.youtube.com/channel/UClUEM1jVHhzFV0xnPh7B2SQ">
-    <img alt="youtube views" title="YouTube views" src="https://img.shields.io/youtube/channel/views/UClUEM1jVHhzFV0xnPh7B2SQ?color=%23E1AD0E&logo=youtube&style=for-the-badge&labelColor=C79600"/></a> 
+    <img alt="youtube views" title="YouTube views" src="https://img.shields.io/youtube/channel/views/UClUEM1jVHhzFV0xnPh7B2SQ?color=%23E1AD0E&logo=youtube&style=for-the-badge&labelColor=C79600"/></a>  -->
   <a href="https://www.linkedin.com/in/iamhrithikraj/">
     <img alt="followers" title="Connect with me on Linked[In]" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:hraj2661999@gmail.com">
