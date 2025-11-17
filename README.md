@@ -146,9 +146,10 @@ No activity tracked
 <h1 align="center"> <img src="https://github-profile-trophy.vercel.app/?username=iamHrithikRaj&column=7&margin-w=15&theme=onedark" alt="iamHrithikRaj"> </h1>
 
 <br>
- 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iamHrithikRaj&theme=onedark)
 
+<div width="100%">
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iamHrithikRaj&theme=onedark)
+</div>
 
  
  <!--Footer-->
