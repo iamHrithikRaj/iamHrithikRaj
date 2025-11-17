@@ -133,7 +133,13 @@ No activity tracked
 ## 📈 **My GitHub Stats:**
 <h1 align="center">  <img src="https://github-readme-stats.vercel.app/api?username=iamHrithikRaj&theme=onedark&count_private=true&show_icons=true" alt="iamHrithikRaj"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamHrithikRaj&theme=onedark"></img> </h1>
 
+<br>
 
+<h1 align="center">  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=iamHrithikRaj&theme=onedark" alt="iamHrithikRaj"> <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=iamHrithikRaj&theme=onedark"></img> </h1>
+
+<br>
+
+<h1 align="center">  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=iamHrithikRaj&theme=onedark" alt="iamHrithikRaj"> <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=iamHrithikRaj&theme=onedark&utcOffset=8"></img> </h1>
 
 <br>
 
@@ -141,7 +147,7 @@ No activity tracked
 
 <br>
  
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iamHrithikRaj&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iamHrithikRaj&theme=onedark)
 
 
  
