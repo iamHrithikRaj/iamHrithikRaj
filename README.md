@@ -142,7 +142,7 @@ No activity tracked
 <br>
  
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-[![Hrithik's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=iamHrithikRaj&theme=xcode)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Hrithik's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app?username=iamHrithikRaj&theme=xcode)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
  
