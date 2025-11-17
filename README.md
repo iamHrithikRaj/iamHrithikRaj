@@ -148,7 +148,7 @@ No activity tracked
 <br>
 
 <div width="100%">
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iamHrithikRaj&theme=onedark)
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iamHrithikRaj&theme=onedark"/>
 </div>
 
  
